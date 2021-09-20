@@ -63,7 +63,7 @@
   </div>
 
   <!-- Mobile menu, show/hide based on menu state. -->
-  <nav class="lg:hidden" aria-label="Global" id="mobile-menu">
+  <nav v-if="mobile" class="lg:hidden" aria-label="Global" id="mobile-menu">
     <div class="pt-2 pb-3 px-2 space-y-1">
       <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-gray-700 hover:text-white" -->
       <a href="#" class="bg-gray-900 text-white block rounded-md py-2 px-3 text-base font-medium" aria-current="page">Dashboard</a>
@@ -108,6 +108,11 @@
 <script>
 export default {
   name: 'Header',
+  data () {
+    return {
+      mobile:false,
+    }
+  }
 }
 </script>
 

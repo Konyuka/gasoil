@@ -18,7 +18,7 @@
               <div class="sm:col-span-2">
                 <div class="space-y-4">
                   <div class="text-lg leading-6 font-medium space-y-1">
-                    <p class="text-black text-2xl">CALTEX</p>
+                    <!-- <p class="text-black text-2xl">CALTEX</p> -->
                   </div>
                   <div class="text-lg">
                     <p class="text-gray-500">

@@ -20,11 +20,11 @@
         <div class="max-w-md mx-auto space-y-4 lg:max-w-5xl lg:grid lg:grid-cols-2 lg:gap-5 lg:space-y-0">
           <div class="flex flex-col rounded-lg shadow-lg overflow-hidden">
             <div class="px-6 py-8 bg-white sm:p-10 sm:pb-6">
-              <div class="mt-4 flex items-baseline text-6xl font-extrabold">
+              <div class="mt-4 flex items-baseline text-5xl md:text-6xl font-extrabold">
                 Operations
               </div>
               <p class="mt-5 text-lg text-gray-500">
-                See Our footprint across the Eastern Africa
+                See Our footprint across the E.A
               </p>
             </div>
 
@@ -40,11 +40,11 @@
 
           <div class="pb-8 flex flex-col rounded-lg shadow-lg overflow-hidden">
             <div class="px-6 py-8 bg-white sm:p-10 sm:pb-6">
-              <div class="mt-4 flex items-baseline text-6xl font-extrabold">
+              <div class="mt-4 flex items-baseline text-5xl md:text-6xl font-extrabold">
                 Sustainability
               </div>
               <p class="mt-5 text-lg text-gray-500">
-                Our focus on sustainability acoss East Africa
+                Our focus on sustainability acoss E.A
               </p>
             </div>
 

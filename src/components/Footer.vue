@@ -6,7 +6,7 @@
   <main class="overflow-hidden">
     <!-- Header -->
     <div class="bg-warm-gray-50">
-      <div class="py-24 lg:py-2">
+      <div class="py-4 lg:py-2">
         <div class="relative z-10 max-w-7xl mx-auto pl-4 pr-8 sm:px-6 lg:px-8">
           <h1 class="pb-5 text-4xl font-extrabold tracking-tight text-warm-gray-900 sm:text-5xl lg:text-6xl">Get in touch</h1>
         </div>
@@ -180,7 +180,7 @@
 
     <!-- Contact grid -->
     <section aria-labelledby="offices-heading">
-      <div class="max-w-7xl mx-auto py-24 px-4 sm:py-12 sm:px-6 lg:px-8">
+      <div class="max-w-7xl mx-auto py-10 px-4 sm:py-12 sm:px-6 lg:px-8">
         <h2 id="offices-heading" class="text-3xl font-extrabold text-warm-gray-900">Our Offices</h2>
         <p class="mt-6 text-lg text-warm-gray-500 max-w-3xl">This are ot various offices around different counties in Kenya</p>
         <div class="mt-10 grid grid-cols-1 gap-10 sm:grid-cols-2 lg:grid-cols-4">
@@ -240,7 +240,7 @@
           
         </div>
         <div class="mt-12 grid grid-cols-2 gap-8 xl:mt-0 xl:col-span-2">
-          <div class="md:grid md:grid-cols-2 md:gap-8">
+          <div class="hidden md:grid md:grid-cols-2 md:gap-8">
            
            
           </div>
