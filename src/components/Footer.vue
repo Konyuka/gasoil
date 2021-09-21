@@ -33,7 +33,7 @@
 
           <div class="grid grid-cols-1 lg:grid-cols-3">
             <!-- Contact information -->
-            <div class="relative overflow-hidden py-10 px-6 bg-gradient-to-b from-blue-400 to-yellow-600 sm:px-10 xl:p-12">
+            <div class="relative overflow-hidden py-10 px-6 bg-gradient-to-b from-yellow-400 to-red-600 sm:px-10 xl:p-12">
 
               <!-- Decorative angle backgrounds -->
               <div class="absolute inset-0 pointer-events-none sm:hidden" aria-hidden="true">
@@ -79,7 +79,7 @@
                   <svg class="flex-shrink-0 w-6 h-6 text-yellow-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
                   </svg>
-                  <span class="ml-3 text-black italic">+254 716 776 600</span>
+                  <span class="ml-3 text-black italic text-xl">+254 716 776 600</span>
                 </dd>
                 <dt><span class="sr-only">Email</span></dt>
                 <dd class="flex text-base text-teal-50">
@@ -87,7 +87,7 @@
                   <svg class="flex-shrink-0 w-6 h-6 text-yellow-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                   </svg>
-                  <span class="ml-3 text-black italic">info@eastafricangasoil.com</span>
+                  <span class="ml-3 text-black italic text-xl">info@eastafricangasoil.com</span>
                 </dd>
               </dl>
               <ul role="list" class="mt-8 flex space-x-12">
@@ -165,7 +165,7 @@
                   </div>
                 </div>
                 <div class="sm:col-span-2 sm:flex sm:justify-end">
-                  <button type="submit" class="mt-2 w-full inline-flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-yellow-600 hover:bg-blue-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500 sm:w-auto">
+                  <button type="submit" class="mt-2 w-full inline-flex items-center justify-center px-6 py-3 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-yellow-500 hover:bg-black focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-teal-500 sm:w-auto">
                     Submit <i class="fas fa-paper-plane ml-2"></i>
                   </button>
                 </div>
@@ -224,13 +224,13 @@
     </section>
   </main>
 
-  <footer class="bg-gray-800" aria-labelledby="footer-heading">
+  <footer class="bg-gradient-to-r from-yellow-600 to-red-600" aria-labelledby="footer-heading">
     <h2 id="footer-heading" class="sr-only">Footer</h2>
     <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
       <div class="xl:grid xl:grid-cols-3 xl:gap-8">
         <div class="space-y-8 xl:col-span-1">
           <img class="h-10" src="https://tailwindui.com/img/logos/workflow-mark.svg?color=warmGray&shade=400" alt="Company name">
-          <p class="text-warm-gray-400 text-base">
+          <p class="text-black text-base">
             With operations across the Region, East African Gasoil Ltd (EAGOL)
              is a privately owned Oil Marketing Company that was established in 
              2009 to Energize East Africa and Beyond! 
@@ -247,24 +247,24 @@
           <div class="md:grid md:grid-cols-2 md:gap-8">
            
             <div class="mt-12 md:mt-0">
-              <h3 class="text-sm font-semibold text-warm-gray-200 tracking-wider uppercase">
+              <h3 class="text-sm font-semibold text-black tracking-wider uppercase">
                 Legal
               </h3>
               <ul role="list" class="mt-4 space-y-4">
                 <li>
-                  <a href="#" class="text-base text-warm-gray-400 hover:text-warm-gray-300">
+                  <a href="#" class="text-base text-white hover:text-warm-gray-300">
                     Claim
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" class="text-base text-warm-gray-400 hover:text-warm-gray-300">
+                  <a href="#" class="text-base text-white hover:text-warm-gray-300">
                     Privacy
                   </a>
                 </li>
 
                 <li>
-                  <a href="#" class="text-base text-warm-gray-400 hover:text-warm-gray-300">
+                  <a href="#" class="text-base text-white hover:text-warm-gray-300">
                     Terms
                   </a>
                 </li>

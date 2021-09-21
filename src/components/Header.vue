@@ -1,6 +1,6 @@
 <template>
 <div>
-<header class="bg-gray-800">
+<header class="bg-gradient-to-l from-yellow-500 to-red-600">
   <div class="max-w-7xl mx-auto px-2 sm:px-4 lg:divide-y lg:divide-gray-700 lg:px-8">
     <div class="relative h-16 flex justify-between">
       <div class="relative z-10 px-2 flex lg:px-0">
@@ -16,7 +16,7 @@
           <div class="relative">
             <div class="pointer-events-none absolute inset-y-0 left-0 pl-3 flex items-center">
               <!-- Heroicon name: solid/search -->
-              <svg class="h-5 w-5 text-blue-700" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
+              <svg class="h-5 w-5 text-black" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
                 <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z" clip-rule="evenodd" />
               </svg>
             </div>
@@ -47,10 +47,10 @@
           </svg>
         </button> -->
 
-        <i class="fab fa-facebook text-blue-300 hover:text-yellow-400 transition duration-500 transform hover:scale-150 fa-lg mr-4"></i>
-        <i class="fab fa-twitter text-blue-300 hover:text-yellow-400 transition duration-500 transform hover:scale-150  fa-lg mr-4"></i>
-        <i class="fab fa-instagram text-blue-300 hover:text-yellow-400 transition duration-500 transform hover:scale-150  fa-lg mr-4"></i>
-        <i class="fab fa-linkedin-in text-blue-300 hover:text-yellow-400 transition duration-500 transform hover:scale-150  fa-lg"></i>
+        <i class="fab fa-facebook text-black hover:text-blue-300 transition duration-500 transform hover:scale-150 fa-lg mr-4"></i>
+        <i class="fab fa-twitter text-black hover:text-blue-300 transition duration-500 transform hover:scale-150  fa-lg mr-4"></i>
+        <i class="fab fa-instagram text-black hover:text-blue-300 transition duration-500 transform hover:scale-150  fa-lg mr-4"></i>
+        <i class="fab fa-linkedin-in text-black hover:text-blue-300 transition duration-500 transform hover:scale-150  fa-lg"></i>
 
       </div>
     </div>
