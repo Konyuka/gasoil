@@ -10,7 +10,7 @@
    </span>
   </router-link>
 
-  <router-link to="#" class="group transform hover:scale-125 w-full block py-5 px-3 text-center hover:bg-blue-300 hover:text-yellow-600 transition duration-500 text-black">
+  <router-link to="/gallery" class="group transform hover:scale-125 w-full block py-5 px-3 text-center hover:bg-blue-300 hover:text-yellow-600 transition duration-500 text-black">
     <svg class="w-6 h-6 mb-2 mx-auto" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M4 3a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V5a2 2 0 00-2-2H4zm12 12H4l4-8 3 6 2-4 3 6z" clip-rule="evenodd"></path></svg>
     <span class="text-white group-hover:text-black">
     Media 
