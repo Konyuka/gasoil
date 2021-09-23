@@ -16,7 +16,7 @@
           <ul role="list" class="space-y-12 sm:grid sm:grid-cols-1 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:gap-x-8">
             <li>
               <div class="space-y-4">
-                <div class="aspect-w-3 aspect-h-2">
+                <div class="aspect-w-5 aspect-h-6">
                   <img class="object-cover shadow-lg rounded-lg" src="@/assets/ALi.jpg" alt="">
                 </div>
                 <div class="text-lg leading-6 font-medium space-y-1">
@@ -65,7 +65,7 @@
               <div class="space-y-2 bg-gradient-to-r from-yellow-200 to-red-100 p-4">
                 <div class="text-lg leading-6 font-medium space-y-1">
                   <h3>Mr. Abdullatif Essajee</h3>
-                  <p class="text-indigo-600">Dircetor</p>
+                  <p class="text-indigo-600">Director</p>
                 </div>
                 <ul role="list" class="flex justify-center space-x-5">
                   <li>
@@ -95,7 +95,7 @@
               <div class="space-y-2 bg-gradient-to-r from-yellow-200 to-red-100 p-4">
                 <div class="text-lg leading-6 font-medium space-y-1">
                   <h3>Mr. Roderick Charters</h3>
-                  <p class="text-indigo-600">Dircetor</p>
+                  <p class="text-indigo-600">Director</p>
                 </div>
                 <ul role="list" class="flex justify-center space-x-5">
                   <li>
@@ -125,7 +125,7 @@
               <div class="space-y-2 bg-gradient-to-r from-yellow-200 to-red-100 p-4">
                 <div class="text-lg leading-6 font-medium space-y-1">
                   <h3>Mr.Timothy Kimuta</h3>
-                  <p class="text-indigo-600">Dircetor</p>
+                  <p class="text-indigo-600">Director</p>
                 </div>
                 <ul role="list" class="flex justify-center space-x-5">
                   <li>
@@ -155,7 +155,7 @@
               <div class="space-y-2 bg-gradient-to-r from-yellow-200 to-red-100 p-4">
                 <div class="text-lg leading-6 font-medium space-y-1">
                   <h3>Mr. Albdinoor Hersi</h3>
-                  <p class="text-indigo-600">Dircetor</p>
+                  <p class="text-indigo-600">Director</p>
                 </div>
                 <ul role="list" class="flex justify-center space-x-5">
                   <li>
@@ -185,7 +185,7 @@
               <div class="space-y-2 bg-gradient-to-r from-yellow-200 to-red-100 p-4">
                 <div class="text-lg leading-6 font-medium space-y-1">
                   <h3>Mr. Martin Heya</h3>
-                  <p class="text-indigo-600">Dircetor</p>
+                  <p class="text-indigo-600">Director</p>
                 </div>
                 <ul role="list" class="flex justify-center space-x-5">
                   <li>
