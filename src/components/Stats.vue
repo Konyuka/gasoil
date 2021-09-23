@@ -19,7 +19,7 @@
               <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
                 Operation Years
               </dt>
-              <dd class="order-1 text-5xl font-extrabold text-indigo-600">
+              <dd class="order-1 text-5xl font-extrabold text-blue-400">
                 10 Yrs
               </dd>
             </div>
@@ -27,7 +27,7 @@
               <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
                 Retails outlets
               </dt>
-              <dd class="order-1 text-5xl font-extrabold text-indigo-600">
+              <dd class="order-1 text-5xl font-extrabold text-blue-400">
                 6+
               </dd>
             </div>
@@ -35,7 +35,7 @@
               <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
                 Deliveries
               </dt>
-              <dd class="order-1 text-5xl font-extrabold text-indigo-600">
+              <dd class="order-1 text-5xl font-extrabold text-blue-400">
                 40M+
               </dd>
             </div>

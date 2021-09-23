@@ -1,6 +1,5 @@
 <template>
   <div>
-   <Header /> 
 
     <div class="bg-white">
       <!-- Header -->
@@ -31,7 +30,7 @@
 
           <div class="flex flex-col bg-white rounded-2xl shadow-xl">
             <div class="flex-1 relative pt-16 px-6 pb-8 md:px-8">
-              <div class="absolute top-0 p-5 inline-block bg-blue-500 rounded-xl shadow-lg transform -translate-y-1/2">
+              <div class="absolute top-0 p-5 inline-block bg-blue-400 rounded-xl shadow-lg transform -translate-y-1/2">
                 <i class="fas fa-rocket fa-3x text-white"></i>
               </div>
               <h3 class="text-4xl font-medium text-gray-900">Mission</h3>
@@ -43,7 +42,7 @@
 
           <div class="flex flex-col bg-white rounded-2xl shadow-xl">
             <div class="flex-1 relative pt-16 px-6 pb-8 md:px-8">
-              <div class="absolute top-0 p-5 inline-block bg-blue-500 rounded-xl shadow-lg transform -translate-y-1/2">
+              <div class="absolute top-0 p-5 inline-block bg-blue-400 rounded-xl shadow-lg transform -translate-y-1/2">
                 <i class="fas fa-eye fa-3x text-white"></i>
               </div>
               <h3 class="text-4xl font-medium text-gray-900">Vision</h3>
@@ -59,12 +58,11 @@
 
    <Stats />
    <Team />
-   <Footer />
+   <Footer class="pt-14" />
   </div>
 </template>
 
 <script>
-import Header from '@/components/Header.vue'
 import Stats from '@/components/Stats.vue'
 import Team from '@/components/Team.vue'
 import Footer from '@/components/Footer.vue'
@@ -72,7 +70,6 @@ import Footer from '@/components/Footer.vue'
 export default {
   name: 'About',
   components: {
-    Header,
     Stats,
     Team,
     Footer
