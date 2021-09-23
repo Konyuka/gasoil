@@ -39,6 +39,11 @@ const routes = [
     path: '/sustainability',
     name: 'Sustainability',
     component: () => import('../views/Sustainability.vue')
+  },
+  {
+    path: '/products',
+    name: 'Products',
+    component: () => import('../views/Products.vue')
   }
 ]
 

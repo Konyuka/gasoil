@@ -8,7 +8,11 @@
           <img class="block h-8 w-auto mr-2" src="@/assets/logo.jpg" alt="Workflow">
           <h2 class="md:text-3xl font-extrabold tracking-tight text-white">EAGOL</h2>
         </div>
+        <router-link to="/products" class="ml-5 my-3 bg-yellow-200 hover:bg-yellow-400 text-gray-600 hover:text-black transition duration-500 rounded-md px-3 inline-flex items-center text-sm font-medium" aria-current="page">
+          <span class="italic text-xs sm:text-lg"> Products Offered </span>
+        </router-link>
       </div>
+
 
       <div class="hidden md:flex relative z-0 flex-1 px-2 items-center justify-center sm:absolute sm:inset-0">
         <div class="w-full sm:max-w-xs">
