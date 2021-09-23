@@ -58,9 +58,11 @@
         <span class=""> Careers <i class="ml-2 fas fa-users"></i></span>
       </a>
       </router-link>
-      <a href="/procurement" class="my-2 bg-blue-300 hover:bg-yellow-400 text-gray-600 hover:text-black transition duration-500 rounded-md py-2 px-3 inline-flex items-center text-sm font-medium" aria-current="page">
+      <router-link to="/procurement">
+      <a href="" class="my-2 bg-blue-300 hover:bg-yellow-400 text-gray-600 hover:text-black transition duration-500 rounded-md py-2 px-3 inline-flex items-center text-sm font-medium" aria-current="page">
         <span class=""> Procurement <i class="ml-2 fas fa-dolly-flatbed"></i></span>
       </a>
+      </router-link>
       
 
     </nav>
