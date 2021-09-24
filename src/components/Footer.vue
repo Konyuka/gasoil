@@ -89,6 +89,14 @@
                   </svg>
                   <span class="ml-3 text-black italic text-xl">info@eastafricangasoil.com</span>
                 </dd>
+                <dt><span class="sr-only">Address</span></dt>
+                <dd class="flex text-base text-teal-50">
+                  <!-- Heroicon name: outline/mail -->
+                  <svg class="flex-shrink-0 w-6 h-6 text-yellow-300" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path></svg>
+                  <span class="ml-3 text-black italic text-xl">
+                    FCB Mihrab 8th Floor - Junction of Lenana road and Ring road, Kilimani <br> <br>
+                    Head Office: <br> P.O BOX 37952 – 00100, Nairobi, Kenya</span>
+                </dd>
               </dl>
               <ul role="list" class="mt-8 flex space-x-12">
                 <li>

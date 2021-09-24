@@ -152,6 +152,12 @@
                   </div>
                 </a>
 
+                <a href="#" class="group">
+                  <div class="w-full aspect-w-1 aspect-h-1 rounded-lg overflow-hidden sm:aspect-w-2 sm:aspect-h-3">
+                    <img src="@/assets/24.jpeg" alt="Textured gray felt pouch for paper cards with snap button flap and elastic pen holder loop." class="w-full h-full object-center object-cover group-hover:opacity-75">
+                  </div>
+                </a>
+
                 
 
                 <!-- More products... -->

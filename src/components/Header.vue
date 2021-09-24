@@ -5,7 +5,7 @@
     <div class="relative h-16 flex justify-between">
       <div class="relative z-10 px-2 flex lg:px-0">
         <div class="flex-shrink-0 flex items-center">
-          <img class="block h-8 w-auto mr-2" src="@/assets/logo.jpg" alt="Workflow">
+          <img class="block h-8 w-auto mr-2" src="@/assets/logos.jpeg" alt="Workflow">
           <h2 class="md:text-3xl font-extrabold tracking-tight text-white">EAGOL</h2>
         </div>
         <router-link to="/products" class="ml-5 my-3 bg-yellow-200 hover:bg-yellow-400 text-gray-600 hover:text-black transition duration-500 rounded-md px-3 inline-flex items-center text-sm font-medium" aria-current="page">
