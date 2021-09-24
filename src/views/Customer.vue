@@ -16,6 +16,12 @@
                 <i class="fas fa-check text-blue-400 mr-3"></i> Provide accurate and sufficient information about our products and services so that customers can make informed purchasing decisions. <br> <br>
                 <i class="fas fa-check text-blue-400 mr-3"></i> EAGOL adopts best practices through innovation and sharing of knowledge to achieve efficient, reliable and superior customer service. 
             </p>
+
+            <div class="mt-10 grid grid-cols-1 gap-x-6 gap-y-4 sm:grid-cols-1">
+            <button type="button" class="w-full bg-blue-500 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-50 focus:ring-indigo-500">
+                <i class="fas fa-file fa-2x mr-3"></i> Download our Customer Service Charter
+            </button>
+            </div>
         </div>
         </div>
         <div class="relative w-full h-64 sm:h-72 md:h-96 lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 lg:h-full">
